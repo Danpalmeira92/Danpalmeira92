@@ -14,4 +14,4 @@ Estudante de programação, migrando de administração para o mundo da tecnolog
 - Programação FullStack com Python (Projeto futuro)
 
 ### 🌐 Me encontre:
-[LinkedIn](https://www.linkedin.com/in/danpalmeira92) • [Instagram](https://instagram.com/Danpalmeira92) • [GitHub](https://github.com/Danpalmeira92)
+[LinkedIn](http://linkedin.com/in/daniel-palmeira-68614711a) • [Instagram](https://instagram.com/Danpalmeira92) • [GitHub](https://github.com/Danpalmeira92)
